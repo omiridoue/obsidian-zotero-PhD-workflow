@@ -41,6 +41,11 @@ Clone or Download this repository to open the Obsidian Vault Template.
 
 ![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/9f00b421-a4c6-4430-9e13-bb9e03ec2513)
 
+You can use the following shortcuts to:
+
+- Import a new reference with Ctrl+L
+- Add a daily note with Ctrl+D
+- Add a weekly note with Ctrl+W
 
 ![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/77b33677-e983-4b78-9386-8efdef811cec)
 
