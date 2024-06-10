@@ -74,6 +74,9 @@ You can use the following shortcuts to:
 ## ✨Acknowledgements
 
 ✨Danny Bradford for advice on Overleaf, DropBox and Extensions
+
 ✨Craig Houston for advice on Obsidian
+
 ✨Diego Oswaldo for Inspo on Taking Notes
+
 ✨Team of Convenors and Ruby Cadman at the School of Health & Wellbeing
