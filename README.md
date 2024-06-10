@@ -4,19 +4,19 @@
 
 ## CONTENTS
 
-* [Ingredient 1: Reference Manager](#ingredient-1:-reference-manager)
+* [Reference Manager](#reference-manager)
   *[Zotero](#zotero)
   *[Zotero extension for citation keys](#zotero-extension-for-citation-keys)
   *[Zotero extension for pdf annotations](#zotero-extension-for-pdf-annotations)
-* [Ingredient 2: Syncing Your Files](#ingredient-2:-syncing-your-files)
-* [Ingredient 3: Bringing your Literature Together](#ingredient-3:-bringing-your-literature-together)
-* [Ingredient 4: Writing-Up](#ingredient-4:-writing-up)
+* [Syncing Your Files](#syncing-your-files)
+* [Bringing your Literature Together](#bringing-your-literature-together)
+* [Writing-Up](#writing-up)
   *[Accessing Overleaf](#accessing-overleaf)
   *[Syncing Overleaf](#syncing-overleaf)
-* [Ingredient 5: Tracking Your Progress](#ingredient-5:-tracking-your-progress)
+* [Tracking Your Progress](#tracking-your-progress)
 
 - - -
-## Ingredient 1: Reference Manager
+## Reference Manager
 
 ### Zotero
 [Downloading Zotero](https://www.zotero.org/download/)
@@ -28,20 +28,20 @@
 [PDF Annotations](https://zotfile.com/)
 
 - - -
-## Ingredient 2: Syncing Your Files 
+## Syncing Your Files 
 
 [DropBox](https://www.dropbox.com/install)
 
 - - -
 
-## Ingredient 3: Bringing your Literature Together
+## Bringing your Literature Together
 
 [Obsidian for your Notes](https://obsidian.md/download)
 
 ![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/77b33677-e983-4b78-9386-8efdef811cec)
 
 - - -
-## Ingredient 4: Writing-Up
+## Writing-Up
 
 ### Accessing Overleaf:
 [Single Sign on Institution for Overleaf](https://www.overleaf.com/learn/how-to/Institutional_single_sign-on)
@@ -53,6 +53,6 @@
 [DropBox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization)
 
 - - -
-## Ingredient 5: Tracking Your Files
+## Tracking Your Files
 
 [Git](https://www.overleaf.com/learn/how-to/Git_integration)
