@@ -1,4 +1,4 @@
-# My PGR Workflow Recipe - Debunking the Hidden Curriculum!
+# PGR Workflow Recipe - Debunking the Hidden Curriculum!
 
 - - -
 
