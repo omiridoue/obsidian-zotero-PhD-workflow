@@ -35,7 +35,7 @@
 
 ## Bringing your Literature Together
 
-[Obsidian Download](https://obsidian.md/download)
+[Downloading Obsidian](https://obsidian.md/download)
 
 Clone or Download this repository to open the Obsidian Vault Template. 
 
@@ -57,13 +57,14 @@ You can use the following shortcuts to:
 ### Accessing Overleaf:
 [Single Sign on Institution for Overleaf](https://www.overleaf.com/learn/how-to/Institutional_single_sign-on)
 
-[GANTT chart project with Overleaf](https://www.overleaf.com/7916624512qwtjsvhdtztw#7a7ea3)
+[GANTT chart Template](https://www.overleaf.com/7916624512qwtjsvhdtztw#7a7ea3)
 
 ### Syncing Overleaf:
 [Zotero](https://www.overleaf.com/learn/how-to/How_to_link_your_Overleaf_account_to_Mendeley_and_Zotero)
+
 [DropBox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization)
 
 - - -
-## Tracking Your Files
+## Tracking Your Progress
 
 [Git](https://www.overleaf.com/learn/how-to/Git_integration)
