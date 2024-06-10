@@ -1,0 +1,13 @@
+{
+  "new-note-folder": "Notes",
+  "link-date-to-daily-note": true,
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "days",
+      "direction": "after"
+    }
+  ],
+  "show-relative-date": true
+}

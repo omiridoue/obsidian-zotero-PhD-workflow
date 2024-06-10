@@ -1,0 +1,42 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Template_Folder",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Template_Folder",
+      "template": "Template_Folder/filename-dispatch.md"
+    },
+    {
+      "folder": "Notes/Weekly",
+      "template": "Template_Folder/weekly.md"
+    },
+    {
+      "folder": "Notes/Daily",
+      "template": "Template_Folder/Daily.md"
+    },
+    {
+      "folder": "Notes/Yearly",
+      "template": "Template_Folder/yearly.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [
+    "",
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

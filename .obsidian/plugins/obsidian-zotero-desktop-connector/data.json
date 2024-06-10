@@ -1,0 +1,29 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Annual Review/Attachments",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Cite",
+      "format": "formatted-citation",
+      "cslStyle": "elsevier-harvard"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Create Literature Notes",
+      "outputPathTemplate": "Annual Review/Papers/@{{citekey}}.md",
+      "imageOutputPathTemplate": "Annual Review/Attachments/{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "cslStyle": "elsevier-harvard",
+      "templatePath": "Template_Folder/ZI_template.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "all-imported-notes",
+  "shouldConcat": true,
+  "pdfExportImageOCR": false
+}

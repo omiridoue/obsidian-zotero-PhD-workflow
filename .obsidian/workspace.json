@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "46748bdb1ffba7f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c7d26574cb0c2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1d861d275ea3c5e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Whiteboard.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9758712daa31d03",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9c263487eeab401",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f17c96088aa721fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "b4752876b9298088",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f809d433835da413",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a05593cacb7375a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cb18e7213163efd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ef3911a788e77fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Whiteboard.canvas"
+              }
+            }
+          },
+          {
+            "id": "529a7fec4e5b92dd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "430e123fee538de5",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "9026821ddbeffe97",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f17c96088aa721fd",
+  "lastOpenFiles": [
+    "Annual Review/Papers/@valentePuttingNetworkNetwork2017.md",
+    "Notes/Daily/2024-06-10.md",
+    "Initial Review/Papers/@valentePuttingNetworkNetwork2017.md",
+    "Initial Review/Papers",
+    "Initial Review",
+    "Initial Review/Papers/@valenteSocialNetworkThresholds1996.md",
+    "Initial Review/Papers/@wallaceAssessingUseAgentBased2015.md",
+    "Initial Review/Lit Notes.md",
+    "Template_Folder/Daily.md",
+    "Notes/Weekly/2024-W23.md",
+    "Notes/Weekly/2024-W22.md",
+    "Notes/Weekly/2024-W24.md",
+    "Template_Folder/weekly.md",
+    "Whiteboard.canvas",
+    "Notes/Daily/2024-05-20.md",
+    "Notes/Daily/2024-04-30.md",
+    "Notes/Daily/2024-03-25.md",
+    "Notes/Daily/2024-05-29.md",
+    "Notes/Daily/2024-03-23.md",
+    "Notes/Daily/2024-03-04.md",
+    "Notes/Daily/2024-03-24.md",
+    "Notes/Daily/2024-05-10.md",
+    "Notes/Daily/2024-06-08.md",
+    "Notes/Yearly/2023.md",
+    "Notes/Weekly/2024-W21.md",
+    "2024-W23.md",
+    "2024-W22.md",
+    "2024-W21.md",
+    "2024-W24.md",
+    "Notes/Weekly",
+    "Attachments/Pasted image 20240423083906.png",
+    "Attachments/Pasted image 20240423085751.png",
+    "Attachments/Pasted image 20240423115304.png",
+    "Attachments/Pasted image 20240226090350.png",
+    "Attachments/Pasted image 20240226114704.png",
+    "Attachments/Pasted image 20240311171735.png",
+    "Attachments/Pasted image 20240305160846.png",
+    "Attachments/Pasted image 20240305160618.png",
+    "Attachments/Pasted image 20240304100727.png",
+    "Attachments/Pasted image 20240226114725.png",
+    "Attachments",
+    "Initial Review/Attachments/wallaceAssessingUseAgentBased2015/image-111-x32-y62.png.~tmp",
+    "Initial Review/Attachments/JoHollidayPhD",
+    "Untitled 1.canvas",
+    "Initial Review/Attachments/steglichDynamicNetworksBehavior2010",
+    "Initial Review/Attachments/pinkChoiceModellingSocial2020",
+    "Initial Review/Attachments/chapmanAnalyticAdvancesSocial2022a",
+    "Initial Review/Untitled.canvas",
+    "Initial Review/Attachments/raganTeenFriendshipsNetworks2023",
+    "Untitled 2.canvas"
+  ]
+}
