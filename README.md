@@ -35,9 +35,16 @@
 
 ## Bringing your Literature Together
 
-[Obsidian for your Notes](https://obsidian.md/download)
+[Obsidian Download](https://obsidian.md/download)
+
+Clone or Download this repository to open the Obsidian Vault Template. 
+
+![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/9f00b421-a4c6-4430-9e13-bb9e03ec2513)
+
 
 ![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/77b33677-e983-4b78-9386-8efdef811cec)
+
+![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/0e26ccf2-c3dc-4d24-ac99-8e96dbbd813e)
 
 - - -
 ## Writing-Up
