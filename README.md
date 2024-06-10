@@ -5,14 +5,14 @@
 ## CONTENTS
 
 * [Reference Manager](#reference-manager)
-  *[Zotero](#zotero)
-  *[Zotero extension for citation keys](#zotero-extension-for-citation-keys)
-  *[Zotero extension for pdf annotations](#zotero-extension-for-pdf-annotations)
+  * [Zotero](#zotero)
+  * [Zotero extension for citation keys](#zotero-extension-for-citation-keys)
+  * [Zotero extension for pdf annotations](#zotero-extension-for-pdf-annotations)
 * [Syncing Your Files](#syncing-your-files)
 * [Bringing your Literature Together](#bringing-your-literature-together)
 * [Writing-Up](#writing-up)
-  *[Accessing Overleaf](#accessing-overleaf)
-  *[Syncing Overleaf](#syncing-overleaf)
+  * [Accessing Overleaf](#accessing-overleaf)
+  * [Syncing Overleaf](#syncing-overleaf)
 * [Tracking Your Progress](#tracking-your-progress)
 
 - - -
