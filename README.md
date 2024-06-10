@@ -1,4 +1,4 @@
-# PGR Workflow Recipe - Debunking the Hidden Curriculum!
+# PGR Workflow Recipe :dizzy: Debunking the Hidden Curriculum :dizzy:
 
 - - -
 
@@ -13,6 +13,7 @@
   * [Accessing Overleaf](#accessing-overleaf)
   * [Syncing Overleaf](#syncing-overleaf)
 * [Tracking Your Progress](#tracking-your-progress)
+* [Acknowledgements](#acknowledgements)
 
 - - -
 ## Reference Manager
@@ -68,3 +69,11 @@ You can use the following shortcuts to:
 ## Tracking Your Progress
 
 [Git](https://www.overleaf.com/learn/how-to/Git_integration)
+
+- - -
+## ✨Acknowledgements
+
+✨Danny Bradford for advice on Overleaf, DropBox and Extensions
+✨Craig Houston for advice on Obsidian
+✨Diego Oswaldo for Inspo on Taking Notes
+✨Team of Convenors and Ruby Cadman at the School of Health & Wellbeing
