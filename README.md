@@ -6,8 +6,8 @@
 
 * [Reference Manager](#reference-manager)
   * [Zotero](#zotero)
-  * [Zotero extension for citation keys](#zotero-extension-for-citation-keys)
-  * [Zotero extension for pdf annotations](#zotero-extension-for-pdf-annotations)
+    * [Zotero extension for citation keys](#zotero-extension-for-citation-keys)
+    * [Zotero extension for pdf annotations](#zotero-extension-for-pdf-annotations)
 * [Syncing Your Files](#syncing-your-files)
 * [Bringing your Literature Together](#bringing-your-literature-together)
 * [Writing-Up](#writing-up)
@@ -21,10 +21,10 @@
 ### Zotero
 [Downloading Zotero](https://www.zotero.org/download/)
 
-### Zotero extension for citation keys:
+#### Zotero extension for citation keys:
 [Citation Key Extension](https://retorque.re/zotero-better-bibtex/)
 
-### Zotero extension for pdf annotations:
+#### Zotero extension for pdf annotations:
 [PDF Annotations](https://zotfile.com/)
 
 - - -
