@@ -1,4 +1,4 @@
-# My PGR Workflow Recipe - !!! There is no Secret Sauce to Debunking the Hidden Curriculum!!!
+# My PGR Workflow Recipe - Debunking the Hidden Curriculum!
 
 ## CONTENTS
 
@@ -38,8 +38,8 @@
 ## For Better Integration:
 
 ## Syncing Overleaf with the Above Tools:
-[Zotero]https://www.overleaf.com/learn/how-to/How_to_link_your_Overleaf_account_to_Mendeley_and_Zotero
-[DropBox]https://www.overleaf.com/learn/how-to/Dropbox_Synchronization
+[Zotero](https://www.overleaf.com/learn/how-to/How_to_link_your_Overleaf_account_to_Mendeley_and_Zotero)
+[DropBox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization)
 
 ## Accessing Overleaf:
 [Single Sign on Institution for Overleaf](https://www.overleaf.com/learn/how-to/Institutional_single_sign-on)
