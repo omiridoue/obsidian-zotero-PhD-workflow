@@ -111,7 +111,7 @@ The material in this repository, and the templates were obtained from the follow
 
 - [Alexandra Phelan's Obsidian-Zotero Workflow](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd)
 
-- [Michal Bryxi Periodic Notes](https://dev.to/michalbryxi/structured-dailyweekly-notes-in-obsidian-2n5h)
+- [Michal Bryxi's Periodic Notes](https://dev.to/michalbryxi/structured-dailyweekly-notes-in-obsidian-2n5h)
 
 I would also like to thank
 
