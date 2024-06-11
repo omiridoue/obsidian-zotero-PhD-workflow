@@ -83,7 +83,7 @@ To ensure that we streamline all of these works to pair well with each other the
 - - -
 ## Tracking Your Progress
 
-Finally it is important to track your progress or even collaborate on writing up a project with a team. To do this you can explore making a repository out of your project and inviting collaborators to work on this. Overleaf works much like an online 
+Finally it is important to track your progress or even collaborate on writing up a project with a team. To do this you can explore making a repository out of your project and inviting collaborators to work on this. Overleaf works much like an online shared drive, but it may become complicated fast whenever you have many different moving parts to a project and would like to document important edits or decisions around your writing along the way.
 
 - [Git](https://www.overleaf.com/learn/how-to/Git_integration)
 
