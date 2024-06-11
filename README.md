@@ -67,6 +67,8 @@ Alternatively, you can clone thise repository using the URL through [GitBash](ht
 established the directory or folder you would like for this to be transferred onto your computer. If you would like to Sync your Obsidian across multiple devices I would suggest storing your
 Vault onto a shared Drive like your Personal OneDrive.
 
+There is a range of tools within Obsidian that you can use to map out graphs/interconnections between literature. You can also do this with separate tools by pairing these with your reference manager, Zotero.
+
 [Research Rabbit to Map Interconnections](https://www.researchrabbit.ai/) 
 
 ```
