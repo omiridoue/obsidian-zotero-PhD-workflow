@@ -104,7 +104,15 @@ Finally it is important to track your progress or even collaborate on writing up
 - [Git](https://www.overleaf.com/learn/how-to/Git_integration)
 
 - - -
+
 ## ✨Acknowledgements
+
+The material in this repository draws heavily on the following tutorials: 
+
+[Alexandra Phelan's Obsidian-Zotero Workflow](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd)
+[Michal Bryxi Periodic Notes](https://dev.to/michalbryxi/structured-dailyweekly-notes-in-obsidian-2n5h)
+
+I would also like to thank
 
 ✨Danny Bradford for advice on Overleaf, DropBox and Extensions
 
@@ -112,4 +120,3 @@ Finally it is important to track your progress or even collaborate on writing up
 
 ✨Diego Oswaldo for Inspo on Taking Notes
 
-✨Team of Convenors and Ruby Cadman at the School of Health & Wellbeing
