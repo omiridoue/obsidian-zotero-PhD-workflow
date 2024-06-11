@@ -56,6 +56,11 @@ With DropBox you will be able to sync the files you upload onto the browser base
 
 Clone or Download this repository to open the Obsidian Vault Template. 
 
+![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/1d155533-e2f5-471d-8d10-1ee67c56496e)
+
+To open the set of Obsidian files that can serve as your template to set up a Vault, you can navigate to the previously specified folder
+path where you have cloned these files onto your local directory.
+
 ![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/9f00b421-a4c6-4430-9e13-bb9e03ec2513)
 
 You can use the following shortcuts to:
