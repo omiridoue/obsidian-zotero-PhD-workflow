@@ -112,6 +112,10 @@ The material in this repository, and the templates were obtained from the follow
 - [Alexandra Phelan's Obsidian-Zotero Workflow](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd)
 
 - [Michal Bryxi's Periodic Notes](https://dev.to/michalbryxi/structured-dailyweekly-notes-in-obsidian-2n5h)
+  
+- [Marco Serafini's Tutorial on Periodic Notes](https://www.youtube.com/watch?v=uqrGVjdIYpk&ab_channel=MarcoSerafini)
+  
+- [Bryan Jenks' Tutorial on Obsidian](https://youtu.be/5k4LfCVY0yQ?si=q5Jv8nxoPggbMaaz)
 
 I would also like to thank
 
