@@ -67,9 +67,10 @@ Alternatively, you can clone thise repository using the URL through [GitBash](ht
 established the directory or folder you would like for this to be transferred onto your computer. If you would like to Sync your Obsidian across multiple devices I would suggest storing your
 Vault onto a shared Drive like your Personal OneDrive.
 
+[Research Rabbit to Map Interconnections](https://www.researchrabbit.ai/) 
+
 ```
 git clone https://github.com/omiridoue/obsidian-zotero-PhD-workflow.git
-
 ```
 
 You can use the following shortcuts to:
