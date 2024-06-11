@@ -18,10 +18,18 @@
 - - -
 ## Reference Manager
 
+Zotero is an open source software which means it is free and accessible to all. Zotero much like other reference managers offers some helpful features such as organising your resources into Collections which you can think of as Bookshelfs, within Libraries. 
+
 ### Zotero
 [Downloading Zotero](https://www.zotero.org/download/)
 
+[Browser Connector](https://www.zotero.org/start)
+
+You can choose to import your references through the browser connector, with the *magic wand* whenever you have a DOI or you can read in a range of file formats storing reference metadata. 
+
 ### Zotero Extensions
+
+You can customise the labelling of your citation keys (firstauthorYEAR) or including the title, whichever is easier to recall. To do this you will need to add the following Add-on Tools.
 
 [Citation Key Extension](https://retorque.re/zotero-better-bibtex/)
 
