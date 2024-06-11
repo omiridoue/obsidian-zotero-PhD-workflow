@@ -132,5 +132,5 @@ Many thanks to students at the Social Public Sciences Unit at the School of Heal
 
 ✨Craig Houston for advice on Obsidian
 
-✨Diego Oswaldo for Discussing Ways to Take Notes using Markdown Files
+✨Diego Oswaldo Andrade Ortiz for Discussing Ways to Take Notes using Markdown Files
 
