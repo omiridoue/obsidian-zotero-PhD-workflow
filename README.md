@@ -76,6 +76,12 @@ You can use the following shortcuts to:
 
 [GANTT chart Template](https://www.overleaf.com/7916624512qwtjsvhdtztw#7a7ea3)
 
+Make a copy of this GANTT chart template should you wish to edit and customise it to your own project. You can then choose
+to save the figure in the form of a pdf.
+
+![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/86a8cb17-5f7d-40a7-92c7-32f9a90f7394)
+
+
 ### Syncing Overleaf:
 
 To ensure that we streamline all of these works to pair well with each other the following are a set of helpful resources explaining how you can establish a link between the tools you use for reading and writing. 
