@@ -16,7 +16,7 @@
 * [Acknowledgements](#acknowledgements)
 
 - - -
-## Reference Manager
+## Stept 1: Reference Manager
 
 Zotero is an open source software which means it is free and accessible to all. Zotero much like other reference managers offers some helpful features such as organising your resources into Collections which you can think of as Bookshelfs, within Libraries. 
 
@@ -38,7 +38,7 @@ You can also choose to highlight or take snapshots of different documents within
 - [PDF Annotations](https://zotfile.com/)
 
 - - -
-## Syncing Your Files 
+## Step 2: Syncing Your Files 
 
 With DropBox you will be able to sync the files you upload onto the browser based compiler with your local directory. Overleaf projects most times require a folder for figures, any images or attachments you may wish to integrate in your writing. 
 
@@ -46,7 +46,7 @@ With DropBox you will be able to sync the files you upload onto the browser base
 
 - - -
 
-## Bringing your Literature Together
+## Step 3: Bringing your Literature Together
 
 [Downloading Obsidian](https://obsidian.md/download)
 
@@ -65,7 +65,7 @@ You can use the following shortcuts to:
 ![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/0e26ccf2-c3dc-4d24-ac99-8e96dbbd813e)
 
 - - -
-## Writing-Up
+## Step 4: Writing-Up
 
 ### Accessing Overleaf:
 [Single Sign on Institution for Overleaf](https://www.overleaf.com/learn/how-to/Institutional_single_sign-on)
@@ -81,7 +81,7 @@ To ensure that we streamline all of these works to pair well with each other the
 - [DropBox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization)
 
 - - -
-## Tracking Your Progress
+## Step 5: Tracking Your Progress
 
 Finally it is important to track your progress or even collaborate on writing up a project with a team. To do this you can explore making a repository out of your project and inviting collaborators to work on this. Overleaf works much like an online shared drive, but it may become complicated fast whenever you have many different moving parts to a project and would like to document important edits or decisions around your writing along the way.
 
