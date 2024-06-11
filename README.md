@@ -31,11 +31,11 @@ You can choose to import your references through the browser connector, with the
 
 You can customise the labelling of your citation keys (firstauthorYEAR) or including the title, whichever is easier to recall. To do this you will need to add the following Add-on Tools.
 
-[Citation Key Extension](https://retorque.re/zotero-better-bibtex/)
+- [Citation Key Extension](https://retorque.re/zotero-better-bibtex/)
 
 You can also choose to highlight or take snapshots of different documents within collections to take notes of what you read along the way.  
 
-[PDF Annotations](https://zotfile.com/)
+- [PDF Annotations](https://zotfile.com/)
 
 - - -
 ## Syncing Your Files 
@@ -73,14 +73,19 @@ You can use the following shortcuts to:
 [GANTT chart Template](https://www.overleaf.com/7916624512qwtjsvhdtztw#7a7ea3)
 
 ### Syncing Overleaf:
-[Zotero](https://www.overleaf.com/learn/how-to/How_to_link_your_Overleaf_account_to_Mendeley_and_Zotero)
 
-[DropBox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization)
+To ensure that we streamline all of these works to pair well with each other the following are a set of helpful resources explaining how you can establish a link between the tools you use for reading and writing. 
+
+- [Zotero](https://www.overleaf.com/learn/how-to/How_to_link_your_Overleaf_account_to_Mendeley_and_Zotero)
+
+- [DropBox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization)
 
 - - -
 ## Tracking Your Progress
 
-[Git](https://www.overleaf.com/learn/how-to/Git_integration)
+Finally it is important to track your progress or even collaborate on writing up a project with a team. To do this you can explore making a repository out of your project and inviting collaborators to work on this. Overleaf works much like an online 
+
+- [Git](https://www.overleaf.com/learn/how-to/Git_integration)
 
 - - -
 ## ✨Acknowledgements
