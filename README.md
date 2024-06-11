@@ -33,10 +33,14 @@ You can customise the labelling of your citation keys (firstauthorYEAR) or inclu
 
 [Citation Key Extension](https://retorque.re/zotero-better-bibtex/)
 
+You can also choose to highlight or take snapshots of different documents within collections to take notes of what you read along the way.  
+
 [PDF Annotations](https://zotfile.com/)
 
 - - -
 ## Syncing Your Files 
+
+With DropBox you will be able to sync the files you upload onto the browser based compiler with your local directory. Overleaf projects most times require a folder for figures, any images or attachments you may wish to integrate in your writing. 
 
 [DropBox](https://www.dropbox.com/install)
 
