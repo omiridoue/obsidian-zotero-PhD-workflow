@@ -63,6 +63,15 @@ path where you have cloned these files onto your local directory.
 
 ![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/9f00b421-a4c6-4430-9e13-bb9e03ec2513)
 
+Alternatively, you can clone thise repository using the URL through [GitBash](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) or Powershell for Windows, once you have 
+established the directory or folder you would like for this to be transferred onto your computer. If you would like to Sync your Obsidian across multiple devices I would suggest storing your
+Vault onto a shared Drive like your Personal OneDrive.
+
+```
+git clone https://github.com/omiridoue/obsidian-zotero-PhD-workflow.git
+
+```
+
 You can use the following shortcuts to:
 
 - Import a new reference with Ctrl+L
