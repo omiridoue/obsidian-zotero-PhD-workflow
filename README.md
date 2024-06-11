@@ -126,7 +126,7 @@ The material in this repository, and the templates were obtained from the follow
   
 - [Bryan Jenks' Tutorial on Obsidian](https://youtu.be/5k4LfCVY0yQ?si=q5Jv8nxoPggbMaaz)
 
-Many thanks to:
+Many thanks to students at the Social Public Sciences Unit at UofGlasgow:
 
 ✨Danny Bradford for advice on Overleaf, DropBox and Extensions
 
