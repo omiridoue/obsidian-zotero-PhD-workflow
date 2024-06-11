@@ -89,6 +89,8 @@ To ensure that we streamline all of these works to pair well with each other the
 
 - [DropBox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization)
 
+![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/640ddda2-becc-4114-9dbf-0c41eb7a6951)
+
 - - -
 ## Tracking Your Progress
 
