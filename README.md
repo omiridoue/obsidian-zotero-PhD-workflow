@@ -117,11 +117,11 @@ The material in this repository, and the templates were obtained from the follow
   
 - [Bryan Jenks' Tutorial on Obsidian](https://youtu.be/5k4LfCVY0yQ?si=q5Jv8nxoPggbMaaz)
 
-I would also like to thank
+Many thanks to:
 
 ✨Danny Bradford for advice on Overleaf, DropBox and Extensions
 
 ✨Craig Houston for advice on Obsidian
 
-✨Diego Oswaldo for Inspo on Taking Notes
+✨Diego Oswaldo for Discussing Ways to Take Notes using Markdown Files
 
