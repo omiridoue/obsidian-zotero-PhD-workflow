@@ -91,7 +91,8 @@ You can use the following shortcuts to:
 ### Accessing Overleaf:
 [Single Sign on Institution for Overleaf](https://www.overleaf.com/learn/how-to/Institutional_single_sign-on)
 
-[GANTT chart Template](https://www.overleaf.com/7916624512qwtjsvhdtztw#7a7ea3)
+You can explore the following template to set up a GANTT chart. If you wish to modify the following file you can save this as a copy onto your Overleaf main page.  
+[GANTT chart Template](https://www.overleaf.com/read/mhsvsvzkzzhc#33329b)
 
 Make a copy of this GANTT chart template should you wish to edit and customise it to your own project. You can then choose
 to save the figure in the form of a pdf.
