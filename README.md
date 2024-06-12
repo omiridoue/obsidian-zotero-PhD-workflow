@@ -104,17 +104,26 @@ To ensure that we streamline all of these works to pair well with each other the
 
 - [Zotero](https://www.overleaf.com/learn/how-to/How_to_link_your_Overleaf_account_to_Mendeley_and_Zotero)
 
-- [DropBox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization)
+![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/96fd597a-fef1-45b5-a9ab-bc287aa07358)
 
-![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/640ddda2-becc-4114-9dbf-0c41eb7a6951)
+To upload your Zotero collection and sync this with the project you are working on, you can try creating a folder naming this bibliography. You can then upload a file from Zotero, naming this bibliography.bib and clicking on create.
+
+![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/a1987bf5-496d-4ed4-b45f-6a0d5a242345)
+
+Every time you need to revisit your reading you can go refresh the collection to update the references you can call through your citation keys.
+
+![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/fb559e83-a388-408a-9036-36f8abadaa3f)
+
+This may be a good point to go back to the previous section on  make sure to go back to the previous step on syncing your files and check that you have been able to link your Overleaf account to DropBox. This step will make life a bit easier whenever there are a couple of moving parts to a project we'll need to juggle, and can be particularly useful whenever it comes to updating things like figures. 
+
+- [DropBox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization)
 
 - - -
 ## Tracking Your Progress
 
-Finally it is important to track your progress or even collaborate on writing up a project with a team. To do this you can explore making a repository out of your project and inviting collaborators to work on this. Overleaf works much like an online shared drive, but it may become complicated fast whenever you have many different moving parts to a project and would like to document important edits or decisions around your writing along the way.
+Finally it is important to track your progress or even collaborate on writing up a project with a team. To do this you can explore making a repository out of your project and inviting collaborators to work on this. Overleaf works much like an online shared drive, but it may become complicated fast whenever you have many different moving parts to a project and would like to document important edits or decisions around your writing along the way. See this resource to syncronising [Git](https://www.overleaf.com/learn/how-to/Git_integration) with your Overleaf account, or explore the built-in History function within Overleaf.
 
-- [Git](https://www.overleaf.com/learn/how-to/Git_integration)
-
+![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/640ddda2-becc-4114-9dbf-0c41eb7a6951)
 - - -
 
 ## ✨Acknowledgements
