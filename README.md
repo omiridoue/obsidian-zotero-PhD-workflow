@@ -61,7 +61,7 @@ Clone or Download this repository to open the Obsidian Vault Template.
 To open the set of Obsidian files that can serve as your template to set up a Vault, you can navigate to the previously specified folder
 path where you have cloned these files onto your local directory.
 
-![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/9f00b421-a4c6-4430-9e13-bb9e03ec2513)
+![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/1b76a0d3-c05d-4359-9801-e0e6f64e5ddc)
 
 Alternatively, you can clone thise repository using the URL through [GitBash](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) or Powershell for Windows, once you have 
 established the directory or folder you would like for this to be transferred onto your computer. If you would like to Sync your Obsidian across multiple devices I would suggest storing your
