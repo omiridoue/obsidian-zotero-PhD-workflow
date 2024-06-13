@@ -69,7 +69,7 @@ Vault onto a shared Drive like your Personal OneDrive.
 
 There is a range of tools within Obsidian that you can use to map out graphs/interconnections between literature. You can also do this with separate tools by pairing these with your reference manager, Zotero.
 
-[Research Rabbit to Map Interconnections](https://www.researchrabbit.ai/) 
+[Research Rabbit](https://www.researchrabbit.ai/) to Visualise Conncections b/w Papers in your Collections
 
 ```
 git clone https://github.com/omiridoue/obsidian-zotero-PhD-workflow.git
@@ -117,7 +117,7 @@ Every time you need to revisit your reading you can go refresh the collection to
 
 This may be a good point to go back to the previous section on  make sure to go back to the previous step on syncing your files and check that you have been able to link your Overleaf account to DropBox. This step will make life a bit easier whenever there are a couple of moving parts to a project we'll need to juggle, and can be particularly useful whenever it comes to updating things like figures. 
 
-- [DropBox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization)
+-[DropBox](https://www.overleaf.com/learn/how-to/Dropbox_Synchronization)
 
 - - -
 ## Tracking Your Progress
@@ -139,9 +139,9 @@ The material in this repository, and the templates were obtained from the follow
   
 - [Bryan Jenks' Tutorial on Obsidian](https://youtu.be/5k4LfCVY0yQ?si=q5Jv8nxoPggbMaaz)
 
-Many thanks to students at the Social Public Sciences Unit at the School of Health and Wellbeing, UofGlasgow:
+Many thanks to PGRs at the Social Public Sciences Unit, School of Health and Wellbeing, UofGlasgow:
 
-✨Danny Bradford for advice on Overleaf, DropBox and Extensions
+✨Danny Bradford for advice on Overleaf, DropBox/Zotero Extensions
 
 ✨Craig Houston for advice on Obsidian
 
