@@ -46,7 +46,7 @@ With DropBox you will be able to sync the files you upload onto the browser base
 
 [DropBox](https://www.dropbox.com/install)
 
-![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/2f55cb63-5725-4327-a3f7-d259a16a3330)
+![image](https://github.com/omiridoue/obsidian-zotero-PhD-workflow/assets/126977992/1cec1583-7b31-4f4d-b891-a9075e5953b6)
 
 - - -
 
